@@ -1,0 +1,11 @@
+# Claude
+CLAUDE.md
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
